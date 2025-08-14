@@ -1,5 +1,0 @@
-{
-  "functions": "./",
-  "schema": "./schema.ts",
-  "deployment": "https://glad-pika-637.convex.cloud"
-}
